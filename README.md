@@ -10,7 +10,7 @@
 
 📚 I’m currently learning everything about Front-End.
 
-📤 2023 Goals: create a new project and find a new job.
+📤 2023 Goals: create various projects and find a new job.
 
 ## About me
 
